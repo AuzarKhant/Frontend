@@ -1,0 +1,35 @@
+.main{
+    display: grid;
+    grid-template-columns:auto auto;
+    margin-left: 300px;
+
+}
+
+.main-img{
+    border-radius: 20px;
+    width: 100px;
+    margin-top: 150px;
+    border-radius: 20%;
+    
+}  
+
+.main-text{
+    border-radius: 20px;
+    width: 100px;
+    margin-top: 150px;
+    border-radius: 20%;
+    color:white ;
+    
+}
+/* .container{
+    display: grid;
+    grid-template-columns: auto auto;
+}  */
+
+.ad{
+    background-color: aliceblue;
+    height:100%;
+    width:100px;
+    margin-top: 150px;
+    margin-left: 800px;
+} 
